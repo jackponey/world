@@ -1,6 +1,6 @@
 public class te {
     public static void mian(String[]args []){
-        int i = 3;
+        int i = 4;
 
     }
 }
